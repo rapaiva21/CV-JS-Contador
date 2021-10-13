@@ -1,0 +1,17 @@
+body {
+    background: #82EEFD;
+}
+
+section{
+    background: #FFFFFF;
+    width: 500px;
+    margin: auto;
+    padding: 25px;
+    border-radius:25px;
+    box-shadow: 3px 3px 0.365px #000000;
+    
+}
+
+#res {
+    margin-top:15px;
+}
